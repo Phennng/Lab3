@@ -1,0 +1,99 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.row-content {
+    margin: 0 auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #a55601;
+    margin: 0px auto;
+    padding: 20px 0px 0px 0px;
+    font-weight: bold;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #784004;
+    color: rgb(16, 12, 0);
+}
+
+address {
+    font-size: 90%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: rgba(67, 35, 2, 0.966);
+}
+
+.google-map {
+    padding: 10px 0px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.carousel {
+    background: rgba(67, 35, 2, 0.966);
+}
+
+.carousel-item {
+    height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.body1 {
+    color: rgba(255, 255, 255, 0.942);
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.modal-footer {
+    padding-right: 50%;
+}
+
+.btn-success {
+    border-radius: 10px;
+}
+
+.btn-danger {
+    border-radius: 10px;
+}
+
+.text-light {
+    background-color: red;
+}
+
+.badge-pill {
+    background-color: red;
+    color: white;
+}
+
+.bg-primary {
+    background-color: #a55601!important;
+}
